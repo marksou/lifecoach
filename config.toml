@@ -1,0 +1,60 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Mike Atherton - Life Coach"
+theme = "hugo-creative-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more informtion take a look at the README.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Mike Atherton"
+	description = "Life Coach"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Mike Atherton - Life Coach"
+
+		[params.navigation.links]
+			about     = "About"
+			blog	  = "Blog"
+			contact   = "Contact"
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Your awesome slogan"
+		subtitle   = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
+		buttonText = "Find out more"
+
+	# About section
+	[params.about]
+		headline    = "What I can do for you!"
+		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		buttonText  = "Contact Me"
+
+	# Blog Section
+	[params.blog]
+		headline = "Blog"
+		description = "Read my blog"
+		buttonText = "Blog"
+
+
+	# Contact section
+	[params.contact]
+		headline = "Get In Touch!"
+		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		phone = "07000 000000"
+		email = "mike@golifeandsoul.com"

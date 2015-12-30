@@ -42,9 +42,8 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.about]
 		headline    = "What I can do for you!"
-		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Contact Me"
-
+		description = "In essence it’s about you and your life and making the best of you and your life.  Life coaching is about helping people achieve their visions and reaching their true potential. My personal style of life coaching is holistic and takes into account every aspect of your life situation.  Work/life balance, health and well being, nutrition, exercise, relationships, positivity, dealing with negativity and living in the moment, being present or what is commonly called mindfulness; and so have developed a system called “Life’s A Piece Of Cake”, that as you perceive it identifies both the positive and the negative in your life and then using visual techniques identifies the areas of your life that can be improved and adjusted.  This is done with real time specific activities and goals set up over a period of time to suit you. I personally believe in one-to-one coaching, and what I call “Personal, positive development partnerships”. It’s important to realise that the work to be done to make your world better, more rewarding, is directed by me, but is actually achieved by you.  You will work as hard as I do to achieve real outcomes and see real positive change."
+		
 	# Blog Section
 	[params.blog]
 		headline = "Blog"
@@ -56,7 +55,7 @@ theme = "hugo-creative-theme"
 	[params.contact]
 		headline = "Get In Touch!"
 		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		phone = "07000 000000"
+		phone = "0780 676070"
 		email = "mike@golifeandsoul.com"
 		facebook = "mark.southee"
 		twitter = "marksou"

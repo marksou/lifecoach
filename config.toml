@@ -54,7 +54,7 @@ theme = "hugo-creative-theme"
 	# Contact section
 	[params.contact]
 		headline = "Get In Touch!"
-		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		description = "Phone or Email me"
 		phone = "0780 676070"
 		email = "mike@golifeandsoul.com"
 		facebook = "mark.southee"
